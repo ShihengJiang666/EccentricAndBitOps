@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// YOUR CODE HERE
+
 // Define a function to count the bits in a
 // number, and find the hightest and lowest
 // 1 bit positions. Valid positions are 0
@@ -47,7 +47,7 @@ void bit_analyze(const int x) {
     high_1 = low_1 = 0;
     
 
-    // YOUR CODE HERE
+    
     // Call the function you defined, and update
     // the 3 values: bit_count, high_1, low_1.
     // ... you will need to change this function
